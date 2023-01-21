@@ -36,8 +36,8 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+author = "Shreya Blog"
+copyright = "| copyright &copy; 2023 [Shreya-blog] All Rights Reserved |"
 description = "This is meta description"
 email = "xyz@email.com"
 googleAnalitycsID = "Your ID"
