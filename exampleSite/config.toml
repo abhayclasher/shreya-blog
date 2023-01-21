@@ -1,10 +1,10 @@
-baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
+baseURL = "https://shreya-blog.netlify.app/blog/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
-title = "Liva | Personal blog template"
+title = "Shreya | Personal blog template"
 [[menu.footer]]
 name = "test"
 url = "https://abhaypro.in"
@@ -39,17 +39,17 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 description = "This is meta description"
-email = "demo@email.com"
+email = "xyz@email.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
-location = "Dhaka, Bangladedsh"
+location = "Punjab, India"
 logo = "images/logo.png"
 mobile = "0124857985320"
 [params.cookies]
 enable = true
 expire_days = 2
 [params.newsletter]
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = "Nor is there anyone who loves pain itself because it is pain."
 enable = true
 title = "Join Our Newsletter"
 [[params.plugins.css]]
