@@ -23,5 +23,3 @@ Please dont ever dare to make someone soo close to u that later u will suffer fo
 _Move further and enjoy your life with what u have ,_
 
 _Give a side to such fake people without looking behind ur back_
-
-[https://www.youtube.com/watch?v=VbevKoUlCgE&list=RDMM7vcVdHMqKIs&index=24](https://www.youtube.com/watch?v=VbevKoUlCgE&list=RDMM7vcVdHMqKIs&index=24 "Abhay Pro")
