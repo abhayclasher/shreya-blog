@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
-title = "Shreya | Personal blog template"
+title = "liva | Personal blog template"
 [[menu.footer]]
 name = "test"
 url = "https://abhaypro.in"
