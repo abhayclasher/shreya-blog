@@ -1,20 +1,12 @@
 ---
-title: "About Me"
-date: 2019-10-29T13:49:23+06:00
-draft: false
+title: About Me
+date: 2019-10-29T13:49:23.000+06:00
+image: images/author.jpg
+description: this is meta description
 
-# image
-image: "images/author.jpg"
-
-# meta description
-description: "this is meta description"
-
-# type
-type : "about"
 ---
+I am Shreya , 17 years old , student of 12th Standard and a NEET Aspirant . My aim is to become a doctor and to be a successful person in my Life, making my Parents feel proud. 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+Earlier I was not into writing much but from past one year I have been having a keen interest in writing about my all inner feelings and thoughts . It feels so soothing and relaxed by writing in a peaceful and a silent environment having infinite thoughts running through my mind .
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+Beside writing I love to do singing and sketching as well. All these things make me free from Worldliness and Hassle .
