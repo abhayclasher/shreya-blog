@@ -1,4 +1,4 @@
-baseURL = "https://shreya-blog.netlify.app/blog/"
+baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = 6
