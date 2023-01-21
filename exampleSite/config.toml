@@ -105,7 +105,7 @@ enable = true
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = ""The two most important days of your life are the day that you’re born and the day that you find out why.” -Mark Twain"
+content = "The two most important days of your life are the day that you’re born and the day that you find out why. -Mark Twain"
 
 
 # cookies
