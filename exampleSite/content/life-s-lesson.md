@@ -1,5 +1,5 @@
 +++
-categories = ["writting"]
+categories = ["Writing "]
 date = 2023-01-20T18:30:00Z
 description = "“You cannot control the behavior of others, but you can always choose how you respond to it.” ― Roy T. Bennett, The Light in the Heart"
 image = "/uploads/27707945_10155888043305638_1014715120_o1.jpg"
