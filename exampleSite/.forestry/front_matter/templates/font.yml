@@ -25,5 +25,4 @@ fields:
   label: type
 pages:
 - exampleSite/content/blog/life-s-lesson.md
-- exampleSite/content/blog/test.md
 - exampleSite/content/life-s-lesson.md
