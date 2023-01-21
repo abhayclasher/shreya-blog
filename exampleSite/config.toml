@@ -1,57 +1,19 @@
+######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
-disqusShortname = ""
 languageCode = "en-us"
-paginate = 6
-summaryLength = "10"
-theme = "liva-hugo"
 title = "Liva | Personal blog template"
-[[menu.footer]]
-name = "test"
-url = "https://abhaypro.in"
-weight = 4
-[[menu.footer]]
-URL = "contact/"
-name = "Contact"
-weight = 3
-[[menu.footer]]
-URL = "blog/"
-name = "Post"
-weight = 2
-[[menu.footer]]
-URL = "about/"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "contact/"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "blog/"
-name = "Post"
-weight = 2
-[[menu.main]]
-URL = "about/"
-name = "About"
-weight = 1
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+disqusShortname = ""
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-[params]
-author = "Shreya Blog"
-copyright = "| copyright &copy; 2023 [Shreya-blog] All Rights Reserved |"
-description = "This is meta description"
-email = "xyz@email.com"
-googleAnalitycsID = "Your ID"
-home = "Home"
-location = "Punjab, India"
-logo = "images/logo.png"
-mobile = "0124857985320"
-[params.cookies]
-enable = true
-expire_days = 2
-[params.newsletter]
-content = "Nor is there anyone who loves pain itself because it is pain."
-enable = true
-title = "Join Our Newsletter"
+
+############################# Plugins ##############################
+[params.plugins]
+
+# CSS Plugins
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -60,6 +22,8 @@ URL = "plugins/slick/slick.css"
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 URL = "plugins/venobox/venobox.css"
+
+# JS Plugins
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -74,28 +38,104 @@ URL = "plugins/search/fuse.min.js"
 URL = "plugins/search/mark.js"
 [[params.plugins.js]]
 URL = "plugins/search/search.js"
+
+
+############################## navigation ###############################
+[menu]
+
+# main menu
+[[menu.main]]
+name = "About"
+URL = "about/"
+weight = 1
+
+[[menu.main]]
+name = "Post"
+URL = "blog/"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+URL = "contact/"
+weight = 3
+
+# footer menu
+[[menu.footer]]
+name = "About"
+URL = "about/"
+weight = 1
+
+[[menu.footer]]
+name = "Post"
+URL = "blog/"
+weight = 2
+
+[[menu.footer]]
+name = "Contact"
+URL = "contact/"
+weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+mobile = "0124857985320"
+email = "demo@email.com"
+location = "Dhaka, Bangladedsh"
+# copyright
+copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+
+# Preloader
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "" # use .png , .svg or .gif format
+
+# search
 [params.search]
 enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = true
+title = "Join Our Newsletter"
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+
+############################# social site ########################
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
 title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[params.social]]
 title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[params.social]]
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[params.social]]
 title = "github"
-[[params.social]]
-icon = "ti-linkedin"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[params.social]]
 title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
