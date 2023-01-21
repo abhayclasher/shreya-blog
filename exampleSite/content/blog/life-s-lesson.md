@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["test1", "test2"]
 date = 2023-01-21T06:43:00Z
 description = "“You cannot control the behavior of others, but you can always choose how you respond to it.” ― Roy T. Bennett, The Light in the Heart"
 image = "/uploads/27707945_10155888043305638_1014715120_o1.jpg"
 tags = []
 title = "Life's lesson"
-type = ""
+type = "test 4"
 
 +++
 We can experience and learn a lot of things from our lives . Each and every person has their own way to live their life and learn a lot of things. I am the one among those billion people in the world who has learnt not only one but a lot of lesson from my life till now. When I was a lil child I didn't knew about anything, at that time my parents were used to taught me each and everything, what is wrong, what is right, what I have to do, how to behave, how to deal with people and other many things. But now I am mature enough to deal with any situation and understand well about my surrounding. 
