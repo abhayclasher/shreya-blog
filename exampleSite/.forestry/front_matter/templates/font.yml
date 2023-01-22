@@ -24,6 +24,5 @@ fields:
   name: type
   label: type
 pages:
-- exampleSite/content/blog/hrad.md
 - exampleSite/content/blog/life-s-lesson.md
 - exampleSite/content/life-s-lesson.md
