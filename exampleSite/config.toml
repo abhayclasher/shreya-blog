@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://shreya-blog.netlify.app/"
 languageCode = "en-us"
-title = "Shreya | Personal blog "
+title = "The Writing Wizard "
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
